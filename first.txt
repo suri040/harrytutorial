@@ -1,0 +1,3 @@
+this is version 1 of my project
+
+i want to commit this one
